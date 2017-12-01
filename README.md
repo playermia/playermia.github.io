@@ -10,4 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![Mia Bow](picture filename?raw=true "Optional Title")
+![Mia Bow](https://github.com/playermia/playermia.github.io/blob/master/Mia%20Bow.PNG?raw=true "Optional Title")
+
+
+***
