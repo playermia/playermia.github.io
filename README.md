@@ -19,4 +19,4 @@ storyscape
 
 this is my storyscape project 
 
-<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/89ny7" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/playermia/framerate-particles" ></script>
